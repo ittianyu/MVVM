@@ -2,11 +2,13 @@
 
 ### 背景 ###
 这几年 MVP 架构在安卓界非常流行，几乎已经成为主流框架，它让业务逻辑 和 UI操作相对独立，使得代码结构更清晰。
+
 ![](http://upload-images.jianshu.io/upload_images/2036280-f4bf081e57dbdfff.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 MVVM 在前端火得一塌糊涂，而在安卓这边却基本没见到几个人在用，看到介绍 MVVM 也最多是讲 DataBinding 或 介绍思想的。偶尔看到几篇提到应用的，还是对谷歌官网的[Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) 文章的翻译。
 
 相信大家看别人博客或官方文档的时候，总会碰到一些坑。要么入门教程写得太复杂（无力吐槽，前面写一堆原理，各种高大上的图，然并卵，到实践部分一笔带过，你确定真的是入门教程吗）。要么就是简单得就是一个 hello world，然后就没有下文了（看了想骂人）。
+
 ![](http://upload-images.jianshu.io/upload_images/2036280-aedda65b339fb994.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 实在看不下去的我，决定插手你的人生。
@@ -47,6 +49,8 @@ What？为什么不在博客留言？考虑到国内转载基本无视版权的�
 
 ### 更新说明 ###
 
-由于工作和学习的原因，很少有较多的时间来写博客，之前国庆长假，一口气写了 8 篇，然后在今天整理并发布出来。
+由于工作和学习的原因，很少时间来写博客，之前国庆长假，一口气写了 8 篇，然后在今天整理并发布出来。
+
 今后尽量保持周更，但完全有可能周末特别忙，所以我能保证的是月更。
+
 如果各位碰到什么问题，欢迎提 issue，对于后面待定章节的内容，也欢迎提供您宝贵的意见。
