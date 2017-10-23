@@ -17,22 +17,22 @@ MVVM 在前端火得一塌糊涂，而在安卓这边却基本没见到几个人
 采用循序渐进方式，内容深入浅出，符合人类学习规律，希望大家用最少时间掌握 MVVM。
 
 #### 应用篇： ####
-[01 Hello MVVM (快速入门)](http://www.jianshu.com/p/bcdb7c2a07eb)
-[02 Repository （数据仓库）](http://www.jianshu.com/p/6a1e32206dfc)
-[03 Cache （本地缓存）](http://www.jianshu.com/p/cf9482d71241)
-[04 State Lcee （加载/空/错误/内容视图）](http://www.jianshu.com/p/26de1ad0a423)
-[05 Simple Data Source （简单的数据源）](http://www.jianshu.com/p/246b54237e5d)
-[06 Load More （加载更多）](http://www.jianshu.com/p/7ace2a416587)
-[07 DataBinding （数据与视图绑定）](http://www.jianshu.com/p/dba2023b07e3)
-[08 RxJava2](http://www.jianshu.com/p/fcee079651d6)
-09 Dragger2
-10 Abstract （抽象）
-11 Demo （例子）
-12-n 待定（欢迎 github 提建议）
+- [01 Hello MVVM (快速入门)](http://www.jianshu.com/p/bcdb7c2a07eb)
+- [02 Repository （数据仓库）](http://www.jianshu.com/p/6a1e32206dfc)
+- [03 Cache （本地缓存）](http://www.jianshu.com/p/cf9482d71241)
+- [04 State Lcee （加载/空/错误/内容视图）](http://www.jianshu.com/p/26de1ad0a423)
+- [05 Simple Data Source （简单的数据源）](http://www.jianshu.com/p/246b54237e5d)
+- [06 Load More （加载更多）](http://www.jianshu.com/p/7ace2a416587)
+- [07 DataBinding （数据与视图绑定）](http://www.jianshu.com/p/dba2023b07e3)
+- [08 RxJava2](http://www.jianshu.com/p/fcee079651d6)
+- 09 Dragger2
+- 10 Abstract （抽象）
+- 11 Demo （例子）
+- 12-n 待定（欢迎 github 提建议）
 
 #### 原理篇 ####
-[01 MyLiveData（最简单的LiveData）](http://www.jianshu.com/p/74190725cf9c)
-02-n 待定（并不是解读源码，那样太无聊了，打算带你从0撸一个 Architecture）
+- [01 MyLiveData（最简单的LiveData）](http://www.jianshu.com/p/74190725cf9c)
+- 02-n 待定（并不是解读源码，那样太无聊了，打算带你从0撸一个 Architecture）
 
 
 ### 关于提问 ###
