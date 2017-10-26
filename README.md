@@ -35,7 +35,7 @@ MVVM 在前端火得一塌糊涂，而在安卓这边却基本没见到几个人
 
 
 #### 原理篇 ####
-- [01 MyLiveData（最简单的LiveData）](http://www.jianshu.com/p/74190725cf9c)
+- [01 MyLiveData（最简单的LiveData）](http://mp.weixin.qq.com/s/QJC-BO-GzP-d4ZzXHGSMPg)
 - 02-n 待定（并不是解读源码，那样太无聊了，打算带你从0撸一个 Architecture）
 
 
