@@ -28,7 +28,7 @@ MVVM 在前端火得一塌糊涂，而在安卓这边却基本没见到几个人
 - [06 Load More （加载更多）](http://mp.weixin.qq.com/s/8PUl40IZzO1Lawuhpc5jyQ)
 - [07 DataBinding （数据与视图绑定）](http://mp.weixin.qq.com/s/6kykw11bjINV3ucbDipQ_Q)
 - [08 RxJava2](http://mp.weixin.qq.com/s/GCFbowkcAjaJ9bnoqEwRAQ)
-- 09 Dragger2
+- [09 Dragger2](http://mp.weixin.qq.com/s/6brisuV-zcahMoL61pYRwA)
 - 10 Abstract （抽象）
 - 11 Demo （例子）
 - 12-n 待定（欢迎 github 提建议）
