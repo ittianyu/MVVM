@@ -20,6 +20,9 @@ android {
     dataBinding {
         enabled true
     }
+    configurations.all {
+        resolutionStrategy.force 'com.google.code.findbugs:jsr305:3.0.1'
+    }
 }
 
 dependencies {
@@ -56,4 +59,9 @@ dependencies {
     // retrofit-adapter
     compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
 
+    // dagger
+    annotationProcessor "com.google.dagger:dagger-compiler:$rootProject.dagger"
+    compile "com.google.dagger:dagger-android:$rootProject.dagger"
+    compile "com.google.dagger:dagger-android-support:$rootProject.dagger" // if you use the support libraries
+    annotationProcessor "com.google.dagger:dagger-android-processor:$rootProject.dagger"
 }

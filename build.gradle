@@ -24,8 +24,9 @@ task clean(type: Delete) {
 }
 
 ext {
-    lifecycle = '1.0.0-rc1'
+    lifecycle = '1.0.0'
     lifecycleRuntime = '1.0.3'
-    room = '1.0.0-rc1'
+    room = '1.0.0'
     supportLibraryVersion = '26.+'
+    dagger = '2.12'
 }

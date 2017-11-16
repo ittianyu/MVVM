@@ -7,6 +7,7 @@
 
     <application
         android:allowBackup="true"
+        android:name=".BaseApplication"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -28,6 +29,7 @@
         <activity android:name=".application.f_load_more.features.projects.ProjectsActivity" />
         <activity android:name=".application.g_data_binding.features.user.UserActivity" />
         <activity android:name=".application.h_rxjava2.features.user.UserActivity" />
+        <activity android:name=".application.i_dagger2.features.user.UserActivity"/>
         <activity android:name=".implementation.ImplementationActivity"/>
         <activity android:name=".implementation.a_my_livedata.MyLiveDataActivity"/>
     </application>

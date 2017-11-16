@@ -54,6 +54,10 @@ public class ApplicationActivity extends AppCompatActivity {
                 startActivity(new Intent(this, com.ittianyu.mvvm.application.h_rxjava2.features.user.UserActivity.class));
                 break;
             }
+            case R.id.btn_i: {
+                startActivity(new Intent(this, com.ittianyu.mvvm.application.i_dagger2.features.user.UserActivity.class));
+                break;
+            }
 
         }
     }
