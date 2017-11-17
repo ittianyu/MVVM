@@ -28,7 +28,7 @@ MVVM 在前端火得一塌糊涂，而在安卓这边却基本没见到几个人
 - [06 Load More （加载更多）](http://mp.weixin.qq.com/s/8PUl40IZzO1Lawuhpc5jyQ)
 - [07 DataBinding （数据与视图绑定）](http://mp.weixin.qq.com/s/6kykw11bjINV3ucbDipQ_Q)
 - [08 RxJava2](http://mp.weixin.qq.com/s/GCFbowkcAjaJ9bnoqEwRAQ)
-- [09 Dragger2](http://mp.weixin.qq.com/s/6brisuV-zcahMoL61pYRwA)
+- [09 Dagger2](http://mp.weixin.qq.com/s/6brisuV-zcahMoL61pYRwA)
 - 10 Abstract （抽象）
 - 11 Demo （例子）
 - 12-n 待定（欢迎 github 提建议）
@@ -55,6 +55,6 @@ What？为什么不在博客留言？考虑到国内转载基本无视版权的�
 
 由于工作和学习的原因，很少时间来写博客，之前国庆长假，一口气写了 8 篇，然后在今天整理并发布出来。
 
-今后尽量保持周更，但完全有可能周末特别忙，所以我能保证的是月更。
+暂时停更，大部分要讲的基本讲完了，后面是整合的内容，但我时间真的排得满满的了，唉，希望会又有一天我也能清闲下来吧 = = 。。
 
 如果各位碰到什么问题，欢迎提 issue，对于后面待定章节的内容，也欢迎提供您宝贵的意见。
